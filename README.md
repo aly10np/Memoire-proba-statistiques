@@ -1,6 +1,5 @@
 # Statistiques computationnelles pour le Big Data — codes Python
 
-Codes du mémoire de Master 2 d'**Aly DIALLO** (Université Cheikh Anta Diop de Dakar) :
 *Statistiques computationnelles pour le Big Data* — méthodes par lots et méthodes de gradient stochastique pour l'inférence bayésienne.
 
 ## Contenu
